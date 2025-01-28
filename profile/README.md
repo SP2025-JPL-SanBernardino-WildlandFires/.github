@@ -25,10 +25,11 @@ Danielle Bram (California State University, Northridge, Center for Geospatial Sc
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/7e9dc7c0-06a1-4474-84a8-cdbecfe1a935" alt="San Bernardino, CA, Line Fire, 2024" width="1020">
 </div>
+San Bernardino, CA, Line Fire, captured September 8, 2024 (Rendon, 2024).
 
 ### Project Summary
 
-This section is under team review and will be uploaded once approved. Thank you for your patience. 
+*This section is under team review and will be uploaded once approved. Thank you for your patience.* 
 
 
 ##### Final Deliverable:
