@@ -45,7 +45,7 @@ San Bernardino, CA, Line Fire, captured September 8, 2024 (Rendon, 2024).
 
 ### References
 ```
-1. NBC Los Angeles. (2025, January 27). Line fire: State of emergency declared in California as blaze spreads rapidly. NBC Los Angeles. https://www.nbclosangeles.com/news/local/line-fire-state-of-emergency/3505915/
+1. Rendon, K. (2024, September 8). State of emergency declared for 20,000-acre line fire. NBC Los Angeles. https://www.nbclosangeles.com/news/local/line-fire-state-of-emergency/3505915/ 
 ```
 
 <table style="margin: auto; text-align: center;">
