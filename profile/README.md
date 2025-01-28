@@ -19,7 +19,7 @@ Kristen Allison (USDA, US Forest Service, Wildland Fire Management R&D, Acting D
 Lauren Black (USDA, US Forest Service, San Bernardino National Forest, Chief 3 Fuels and Prevention); 
 Chris Jones (San Bernardino Valley Municipal Water District, Preserve System Program Manager);
 Jennifer Alford (California State University, San Bernardino, Institute for Watershed Resiliency (IWR), Associate Director of Research CSU Water);
-California State University, Danielle Bram (Northridge, Center for Geospatial Science & Technology, Director, Center for Geospatial Science & Technology)
+Danielle Bram (California State University, Northridge, Center for Geospatial Science & Technology, Director, Center for Geospatial Science & Technology)
 ```
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/7e9dc7c0-06a1-4474-84a8-cdbecfe1a935" alt="San Bernardino, CA, Line Fire, 2024" width="1020">
