@@ -11,7 +11,8 @@ Our broad team consists of the following individuals:
 ```
 Benjamin M Holt (NASA JPL, CalTech);
 Dr. Madeleine Pascolini-Campbell (NASA JPL, CalTech);
-Dr. Karen An (NASA JPL, CalTech); Megan Ward-Baranyay (SDSU)
+Dr. Karen An (NASA JPL, CalTech);
+Megan Ward-Baranyay (SDSU)
 ```
 **Partners**:
 ```
