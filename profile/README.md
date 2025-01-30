@@ -1,4 +1,4 @@
-# Spring 2025 JPL San Bernardino Wildland Fires Project
+# Spring 2025 San Bernardino Wildland Fires Project
 ## AMA NASA DEVELOP @ JPL
 
 The JPL San Bernardino Wildland Fires Organization was created to host code created in association with the [Analytical Mechanics Assosciates (AMA) DEVELOP](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop/projects) Spring 2025 session.
